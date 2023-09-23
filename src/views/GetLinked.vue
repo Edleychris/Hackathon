@@ -32,7 +32,7 @@ height: 22px;" class="star3">
         </div>
         <div class="image-block">
             <img src="../assets/man.png" alt="" class="man1">
-            <img src="../assets/Image 1.png" alt="" class="man2">
+            <img src="../assets/Image1.png" alt="" class="man2">
             <img src="../assets/metrix.png" alt="" class="metrix">
         </div>
     </div></div>
